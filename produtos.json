@@ -1,0 +1,16 @@
+[
+    {
+        "sku": "string",
+        "nome": "string",
+        "quantidade": 0,
+        "preco": 0.0,
+        "localizacao": "string"
+    },
+    {
+        "sku": "string",
+        "nome": "string",
+        "quantidade": 10,
+        "preco": 89.9,
+        "localizacao": "string"
+    }
+]
